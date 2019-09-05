@@ -22,7 +22,7 @@
         </style>
 
         <a class="region" id="d" 
-           xlink:href="/netzwerkkarte/erzgebirgskreis" target="_parent">
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/erzgebirgskreis" target="_parent">
             <path fill="#2E75C9" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M190.104,292.002c-0.622,1.09-1.189,1.623-1.842,2.901c-1.317,2.574-2.158,2.187-4.21,0.132c-1.725-1.728-1.704,0.637-3.355,1.187
 	c-2.761,0.918-1.593,2.669-0.46,4.943c1.546,3.104-1.253,2.456-1.908,5.076l-4.671,0.132c-0.369-1.479-1.521-3.199-1.842-4.482
@@ -72,7 +72,7 @@
 
 
 		<a class="region" id="b" 
-		   xlink:href="/netzwerkkarte/vogtlandkreis" target="_parent">
+		   xlink:href="https://www.lakossachsen.de/netzwerkkarte/vogtlandkreis" target="_parent">
 			<path fill="#9DC200" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M151.757,409.75l-0.268-4.432c-0.083-0.109-0.527-0.808-0.724-0.857l-4.737-3.098l-7.894-6.131c-3.025-2.35-4.869-4.825-4.869-8.768
 	c-1.942,0-3.563-1.762-4.67-3.428c-1.402-2.109-2.176-2.161-0.066-3.625c1.822-1.265,1.007-1.423,0.395-3.032
@@ -118,7 +118,7 @@
 			</text>
 		</a>
 		<a class="region" id="c" 
-		   xlink:href="/netzwerkkarte/zwickau" target="_parent">
+		   xlink:href="https://www.lakossachsen.de/netzwerkkarte/zwickau" target="_parent">
 			<path fill="#DB5821" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M190.104,292.002c-0.622,1.09-1.189,1.623-1.842,2.901c-1.317,2.574-2.158,2.187-4.21,0.132c-1.725-1.728-1.704,0.637-3.355,1.187
 	c-2.761,0.918-1.593,2.669-0.46,4.943c1.546,3.104-1.253,2.456-1.908,5.076l-4.671,0.132c-0.369-1.479-1.521-3.199-1.842-4.482
@@ -163,7 +163,7 @@
 			</text>
 		</a>
         <a class="region" id="h" 
-           xlink:href="/netzwerkkarte/nordsachsen" target="_parent">
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/nordsachsen" target="_parent">
             <path fill="#2E75C9" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M76.591,120.726l4.903,0.149l6.052-3.955l0,0c1.009-3.595-1.005-5.781,1.974-8.768c1.505-1.509,1.381-0.675,1.381-2.703
 	c0-1.378,1.579-1.851,1.579-3.494c-0.798-0.266-2.171-2.282-2.171-3.23l0.066-0.066c0.565-0.142,2.563-0.185,2.697-0.725
@@ -230,7 +230,7 @@
         </a>
 
         <a class="region" id="i"
-           xlink:href="/netzwerkkarte/meißen" target="_parent">
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/meißen" target="_parent">
 			<path fill="#DB5821" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M384.035,171.238c-1.277,0.109-2.507-0.198-3.816-0.198c0,1.31,0.648,3.027,0.987,4.351c0.692,2.707,2.5,3.111,2.5,6.592
 	c0,2.527-1.844,2.241-3.882,2.241c-0.862,0-3.99-1.424-4.407-1.055c-1.053,0.933-1.177,5.711-2.303,6.987
@@ -274,7 +274,7 @@
             </text>
         </a>
         <a class="region" id="j"
-           xlink:href="/netzwerkkarte/sächsische-schweiz-osterzgebirge"
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/sächsische-schweiz-osterzgebirge"
            target="_parent">
             <path fill="#BC8D11" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M348.101,206.109c0.483,1.179,0.763,4.654,1.661,5.208c1.528,0.943,2.631,0.38,2.631,2.571c0,3.512,10.618,1.78,12.828,1.78
@@ -325,7 +325,7 @@
             </text>
         </a>
 		<a class="region" id="e"
-		   xlink:href="/netzwerkkarte/mittelsachsen" target="_parent">
+		   xlink:href="https://www.lakossachsen.de/netzwerkkarte/mittelsachsen" target="_parent">
 			<path fill="#669C64" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M243.849,286.795c0.312-1.075,0.053-1.255-0.131-2.176c-4.272-1.424,2.575-7.64-0.855-9.163c-1.569-0.697-3.878-2.46-5.46-2.57
 	l-5.657-0.396c-0.056-0.113-0.059-0.104-0.198-0.132c-0.756-2.271,2.545-3.846,1.842-6.658c-1.9-0.475-1.165-4.475-1.513-5.867
@@ -387,7 +387,7 @@
 			</text>
 		</a>
 		<a class="region" id="f"
-		   xlink:href="/netzwerkkarte/leipzig-land" target="_parent">
+		   xlink:href="https://www.lakossachsen.de/netzwerkkarte/leipzig-land" target="_parent">
 			<path fill="#9DC200" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M76.591,120.726l4.903,0.149l6.052-3.955l0,0l1.645,1.516c0.143,1.144,0.823,1.757,1.71,2.373c0.827,0.574-2.098,1.353-2.434,1.78
 	c-0.589,0.748-0.808,1.617-1.579,2.175c-1.191,0.861-0.002,1.59,0.724,2.439c1.125,1.316,0.895,3.513,1.974,4.483
@@ -450,7 +450,7 @@
 			</text>
 		</a>
 		<a class="region" id="g"
-		   xlink:href="/netzwerkkarte/leipzig" target="_parent">
+		   xlink:href="https://www.lakossachsen.de/netzwerkkarte/leipzig" target="_parent">
 			<path fill="#BC8D11" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M138.432,113.261c0.107,0.934,0.292,1.86,0.426,2.736c0.354,2.316,4.25-0.104,4.934,2.637c0.796,0.199,1.897,0.989,0.987,1.648
 	c-0.781,0.565-1.382,0.887-1.382,1.978c0.227,0.057,0.068,0.198,0.395,0.198c0.056,0.227,1.951,1.049,2.236,1.121
@@ -478,7 +478,7 @@
 			</text>
 		</a>
 		<a class="region" id="a"
-		   xlink:href="/netzwerkkarte/chemnitz" target="_parent">
+		   xlink:href="https://www.lakossachsen.de/netzwerkkarte/chemnitz" target="_parent">
 			<path class="p1" fill="#856675" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M243.849,286.795c0.312-1.075,0.053-1.255-0.131-2.176c-4.272-1.424,2.575-7.64-0.855-9.163c-1.569-0.697-3.878-2.46-5.46-2.57
 	l-5.657-0.396c-0.056-0.113-0.059-0.104-0.198-0.132c-0.756-2.271,2.545-3.846,1.842-6.658c-1.9-0.475-1.165-4.475-1.513-5.867
@@ -498,7 +498,7 @@
 			</text>
 		</a>
         <a class="region" id="k"
-           xlink:href="/netzwerkkarte/bautzen" target="_parent">
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/bautzen" target="_parent">
             <path fill="#856675" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M396.271,109.142l3.092,3.757c0.665,2.297,2.171,5.463,2.171,7.778c-0.728,0-3.628-0.54-4.276-0.923
 	c-1.574-0.929-0.605,0.58-0.854,1.582c-0.475,1.909-1.445,4.345-2.5,5.933c-0.399,0.601-2.96,3.798-2.96,4.219
@@ -562,7 +562,7 @@
             </text>
         </a>
         <a class="region" id="l"
-           xlink:href="/netzwerkkarte/dresden" target="_parent">
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/dresden" target="_parent">
             <path fill="#669C64" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M422.979,206.703l-1.381-1.78l-2.303-2.505c-1.91,0,0.404,4.202-2.632,4.417c-3.439,0.243-3.334-2.534-5.723-3.099
 	c-0.886-0.209-4.069,0.384-3.224-0.791c1.188-1.649,2.782-3.434,3.75-5.208c0.767-1.404-0.696-5.312-1.711-6.328
@@ -588,7 +588,7 @@
             </text>
         </a>
         <a class="region" id="m"
-           xlink:href="/netzwerkkarte/görlitz" target="_parent">
+           xlink:href="https://www.lakossachsen.de/netzwerkkarte/görlitz" target="_parent">
 
             <path fill="#9DC200" stroke="#1D1D1B" stroke-width="0.2835" d="
 	M516.194,57.395c0.665-0.167,0.27-2.691,2.632-3.296l5.657-1.45c2.147-0.55,12.367,0.8,10.986-2.769
